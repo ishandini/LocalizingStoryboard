@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  LocalizingStoryboard
+
+  Created by Ishan on 8/19/15.
+  Copyright (c) 2015 AppmonkeyZ MacBook Pro. All rights reserved.
+*/
+
+
+"BOOK_PURCHASE" = "Thanks for the Purchase!";
